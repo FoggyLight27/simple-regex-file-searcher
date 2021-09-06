@@ -5,3 +5,5 @@ Arguments: Your search term in regex, must be a full match for the file name. By
 
 Made in Python 3.9.7
 
+Known bugs: `ValueError: list.remove(x): x not in list` when attempting to use path= argument
+
